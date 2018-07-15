@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DeviceStatus</string>
+
+    <string name="status">Battery status</string>
+
+    <string name="voltage">Battery voltage</string>
+
+    <string name="temperature">Battery temperature</string>
+
+
+</resources>
